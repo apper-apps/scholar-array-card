@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "studentId": 1,
+    "assignmentId": 1,
+    "score": 85,
+    "submittedDate": "2024-12-14"
+  },
+  {
+    "Id": 2,
+    "studentId": 2,
+    "assignmentId": 1,
+    "score": 92,
+    "submittedDate": "2024-12-14"
+  },
+  {
+    "Id": 3,
+    "studentId": 6,
+    "assignmentId": 1,
+    "score": 78,
+    "submittedDate": "2024-12-15"
+  },
+  {
+    "Id": 4,
+    "studentId": 10,
+    "assignmentId": 1,
+    "score": 88,
+    "submittedDate": "2024-12-14"
+  },
+  {
+    "Id": 5,
+    "studentId": 3,
+    "assignmentId": 3,
+    "score": 95,
+    "submittedDate": "2024-12-11"
+  },
+  {
+    "Id": 6,
+    "studentId": 4,
+    "assignmentId": 3,
+    "score": 82,
+    "submittedDate": "2024-12-12"
+  },
+  {
+    "Id": 7,
+    "studentId": 7,
+    "assignmentId": 3,
+    "score": 90,
+    "submittedDate": "2024-12-11"
+  },
+  {
+    "Id": 8,
+    "studentId": 8,
+    "assignmentId": 3,
+    "score": 76,
+    "submittedDate": "2024-12-12"
+  }
+]

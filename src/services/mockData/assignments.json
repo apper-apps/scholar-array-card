@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "classId": 1,
+    "name": "Algebra Quiz #1",
+    "totalPoints": 100,
+    "dueDate": "2024-12-15",
+    "category": "Quiz"
+  },
+  {
+    "Id": 2,
+    "classId": 1,
+    "name": "Calculus Test",
+    "totalPoints": 150,
+    "dueDate": "2024-12-20",
+    "category": "Test"
+  },
+  {
+    "Id": 3,
+    "classId": 2,
+    "name": "Cell Structure Lab",
+    "totalPoints": 75,
+    "dueDate": "2024-12-12",
+    "category": "Lab"
+  },
+  {
+    "Id": 4,
+    "classId": 3,
+    "name": "Shakespeare Essay",
+    "totalPoints": 200,
+    "dueDate": "2024-12-18",
+    "category": "Essay"
+  },
+  {
+    "Id": 5,
+    "classId": 4,
+    "name": "WWI Timeline Project",
+    "totalPoints": 125,
+    "dueDate": "2024-12-25",
+    "category": "Project"
+  }
+]

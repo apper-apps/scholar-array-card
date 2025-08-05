@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.johnson@student.edu",
+    "grade": "10",
+    "studentId": "STU001",
+    "enrollmentDate": "2024-08-15",
+    "status": "Active"
+  },
+  {
+    "Id": 2,
+    "firstName": "Liam",
+    "lastName": "Smith",
+    "email": "liam.smith@student.edu",
+    "grade": "10",
+    "studentId": "STU002",
+    "enrollmentDate": "2024-08-15",
+    "status": "Active"
+  },
+  {
+    "Id": 3,
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "email": "olivia.brown@student.edu",
+    "grade": "11",
+    "studentId": "STU003",
+    "enrollmentDate": "2024-08-16",
+    "status": "Active"
+  },
+  {
+    "Id": 4,
+    "firstName": "Noah",
+    "lastName": "Davis",
+    "email": "noah.davis@student.edu",
+    "grade": "9",
+    "studentId": "STU004",
+    "enrollmentDate": "2024-08-17",
+    "status": "Active"
+  },
+  {
+    "Id": 5,
+    "firstName": "Ava",
+    "lastName": "Wilson",
+    "email": "ava.wilson@student.edu",
+    "grade": "12",
+    "studentId": "STU005",
+    "enrollmentDate": "2024-08-18",
+    "status": "Active"
+  },
+  {
+    "Id": 6,
+    "firstName": "William",
+    "lastName": "Moore",
+    "email": "william.moore@student.edu",
+    "grade": "10",
+    "studentId": "STU006",
+    "enrollmentDate": "2024-08-19",
+    "status": "Active"
+  },
+  {
+    "Id": 7,
+    "firstName": "Sophia",
+    "lastName": "Taylor",
+    "email": "sophia.taylor@student.edu",
+    "grade": "11",
+    "studentId": "STU007",
+    "enrollmentDate": "2024-08-20",
+    "status": "Active"
+  },
+  {
+    "Id": 8,
+    "firstName": "James",
+    "lastName": "Anderson",
+    "email": "james.anderson@student.edu",
+    "grade": "9",
+    "studentId": "STU008",
+    "enrollmentDate": "2024-08-21",
+    "status": "Active"
+  },
+  {
+    "Id": 9,
+    "firstName": "Isabella",
+    "lastName": "Thomas",
+    "email": "isabella.thomas@student.edu",
+    "grade": "12",
+    "studentId": "STU009",
+    "enrollmentDate": "2024-08-22",
+    "status": "Active"
+  },
+  {
+    "Id": 10,
+    "firstName": "Benjamin",
+    "lastName": "Jackson",
+    "email": "benjamin.jackson@student.edu",
+    "grade": "10",
+    "studentId": "STU010",
+    "enrollmentDate": "2024-08-23",
+    "status": "Active"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "studentId": 1,
+    "classId": 1,
+    "date": "2024-12-10",
+    "status": "Present"
+  },
+  {
+    "Id": 2,
+    "studentId": 2,
+    "classId": 1,
+    "date": "2024-12-10",
+    "status": "Present"
+  },
+  {
+    "Id": 3,
+    "studentId": 6,
+    "classId": 1,
+    "date": "2024-12-10",
+    "status": "Tardy"
+  },
+  {
+    "Id": 4,
+    "studentId": 10,
+    "classId": 1,
+    "date": "2024-12-10",
+    "status": "Present"
+  },
+  {
+    "Id": 5,
+    "studentId": 1,
+    "classId": 1,
+    "date": "2024-12-11",
+    "status": "Present"
+  },
+  {
+    "Id": 6,
+    "studentId": 2,
+    "classId": 1,
+    "date": "2024-12-11",
+    "status": "Absent"
+  },
+  {
+    "Id": 7,
+    "studentId": 6,
+    "classId": 1,
+    "date": "2024-12-11",
+    "status": "Present"
+  },
+  {
+    "Id": 8,
+    "studentId": 10,
+    "classId": 1,
+    "date": "2024-12-11",
+    "status": "Present"
+  },
+  {
+    "Id": 9,
+    "studentId": 3,
+    "classId": 2,
+    "date": "2024-12-10",
+    "status": "Present"
+  },
+  {
+    "Id": 10,
+    "studentId": 4,
+    "classId": 2,
+    "date": "2024-12-10",
+    "status": "Tardy"
+  }
+]
