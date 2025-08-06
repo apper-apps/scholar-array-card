@@ -222,7 +222,6 @@ export const studentsService = {
       } else {
         console.error(error.message);
       }
-      return false;
 return false;
     }
   }
