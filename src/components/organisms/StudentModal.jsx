@@ -6,7 +6,7 @@ import FormField from "@/components/molecules/FormField";
 import { studentsService } from "@/services/api/studentsService";
 
 const StudentModal = ({ isOpen, onClose, student, onSave }) => {
-  const [formData, setFormData] = useState({
+const [formData, setFormData] = useState({
     firstName: "",
     lastName: "",
     email: "",
@@ -17,7 +17,7 @@ const StudentModal = ({ isOpen, onClose, student, onSave }) => {
   const [errors, setErrors] = useState({});
 
   useEffect(() => {
-    if (student) {
+if (student) {
       setFormData({
         firstName: student.firstName || "",
         lastName: student.lastName || "",
@@ -101,7 +101,7 @@ const StudentModal = ({ isOpen, onClose, student, onSave }) => {
         </div>
 
         <form onSubmit={handleSubmit} className="p-6 space-y-4">
-          <FormField
+<FormField
             label="First Name"
             required
             value={formData.firstName}
